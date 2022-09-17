@@ -1,2 +1,3 @@
 def main():
-  pass
+  name = 'John'
+  print(name)
